@@ -1,6 +1,6 @@
                                                                         # E-Shop: Your Ultimate Online Shopping Experience
 
-Welcome to E-Shop:-A premier online destination where you can find an exquisite selection of products, from fresh vegetables to quailty Dairy Products, all at unbeatable prices. Dive into our world where convenience meets excellence, and every click brings you closer to an extraordinary shopping experience!
+Welcome to E-Shop:-A premier online destination where you can find an exquisite selection of products, from fresh vegetables to quailty Dairy Products, all at unbeatable prices. Dive into our world where convenience meets excellence, and every click brings you closer to an extraordinary shopping experience!!
 
 📦 Project Overview:-
 
